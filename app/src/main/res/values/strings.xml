@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica11_SharedPreferences</string>
+    <string name="txt_email">Introduce tu email.</string>
+    <string name="button">Guardar</string>
+</resources>
